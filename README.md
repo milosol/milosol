@@ -1,41 +1,39 @@
 
 ### **_About Me_**
-Blockchain and web fullstack developer.  
+I am a Blockchain and web fullstack developer who have  
 3 years of blockchain experiences and 8+ years of web experiences.  
-Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liquidity Pool, ICO, Fork.  
-I've got unrivaled crypto development skills for 3 years.  
+Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liquidity Pool, Swap, Bridge, ICO, Fork.  
+I've got unrivaled crypto development skills.  
 Only perfect result will be provided for you !!!  
 ### **_Skill Set_**
- Solidity, Chainlink, IPFS, Alchemy, Pinata, Web3, React, Vue, GraphQL  
+ Solidity, Chainlink, IPFS, Alchemy, Pinata, Web3, React, Vue, GraphQL, Subgraph  
  Python, Django, PHP, Laravel, NextJs, NuxtJS, Gatsby, Rust  
  Truffle, Hardhat, Ethereum, BSC, Avalanche, Polygon, Polkadot, Solana  
 <table>
   <tr>
+      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_ethereum.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_web3.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_hardhat.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
       <td><img src="https://github.com/Pyweb-master/Pyweb-master/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_ethereum.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_solana.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
   </tr> 
   <tr>
+    <td>Ethereum</td>
     <td>Solidity</td>
     <td>Web3</td>
     <td>Hardhat</td>
     <td>Truffle</td>
     <td>NFT</td>
     <td>DeFi</td>
-    <td>Ethereum</td>
     <td>Bitcoin</td>
     <td>Solana</td>
-    <td>JS</td>
     <td>Node</td>
     <td>React</td>
     <td>Vue</td>
