@@ -47,7 +47,6 @@ Only perfect result will be provided for you !!!
         <tr>
             <td>PotatoPowerClue</td>
             <td>CryptoPigs</td>     
-            <td>ChubbyBunny</td>
             <td>GekoSave</td>      
         </tr>
     </thead>
@@ -60,11 +59,6 @@ Only perfect result will be provided for you !!!
         <td>
             <a href="https://cryptopigs.one/#/">
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/CryptoPig.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/rdmochih/rdmochih/main/projects/ChubbyBunny1.png?raw=true" width="200">
             </a>
         </td>
         <td>
@@ -124,3 +118,6 @@ Only perfect result will be provided for you !!!
         </td> 
     </tr>  
 </table>
+### Conclusion
+Your business is my own business and I will do my best for your job with high skills, honest and kind mind.  
+Thanks for your reading.  
