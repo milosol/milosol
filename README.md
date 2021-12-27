@@ -11,7 +11,7 @@ Only perfect result will be provided for you !!!
  Truffle, Hardhat, Ethereum, BSC, Avalanche, Polygon, Polkadot, Solana
 <table>
   <tr>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/pyweb-master/pyweb-master/tree/main/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/pyweb-master/pyweb-master/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
