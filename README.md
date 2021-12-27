@@ -11,15 +11,15 @@ Only perfect result will be provided for you !!!
  Truffle, Hardhat, Ethereum, BSC, Avalanche, Polygon, Polkadot, Solana  
 <table>
   <tr>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_ethereum.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_web3.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_hardhat.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/Pyweb-master/Pyweb-master/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/pyweb-master/pyweb-master/blob/main/icons/icon_solana.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_ethereum.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_web3.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_hardhat.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_solana.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
