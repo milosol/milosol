@@ -1,14 +1,14 @@
 
 ### **_About Me_**
-I am a Blockchain and web fullstack developer who have  
-3 years of blockchain experiences and 8+ years of web experiences.  
+Hi, there.
+I am a Blockchain and web fullstack developer who have unrivaled crypto skills.  
+3 years in blockchain development recently and 8+ years in web development before.  
 Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liquidity Pool, Swap, Bridge, ICO, Fork.  
-I've got unrivaled crypto development skills.  
 Only perfect result will be provided for you !!!  
 ### **_Skill Set_**
- Solidity, Chainlink, IPFS, Alchemy, Pinata, Web3, React, Vue, GraphQL, Subgraph  
- Python, Django, PHP, Laravel, NextJs, NuxtJS, Gatsby, Rust  
- Truffle, Hardhat, Ethereum, BSC, Avalanche, Polygon, Polkadot, Solana  
+- Solidity, Chainlink, IPFS, Alchemy, Pinata, Web3, React, Vue, GraphQL, Subgraph  
+- Truffle, Hardhat, Ethereum, BSC, Avalanche, Polygon, Polkadot, Rust, Solana  
+- Python, Django, PHP, Laravel, NextJs, NuxtJS, Gatsby  
 <table>
   <tr>
       <td><img src="https://github.com/rdmochih/rdmochih/blob/main/icons/icon_ethereum.png?raw=true" width="200"></td>
@@ -40,7 +40,39 @@ Only perfect result will be provided for you !!!
   </tr> 
 </table>
 
-### DeFi Experiences
+### Experiences
+- Fork
+<table>
+    <thead align="center">
+        <tr>
+            <td>OlympusDAO</td>
+            <td>Zora NFT Marketplace</td>     
+            <td>WolfGame</td>      
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://app.olympusdao.finance/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/olympusdao.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://zora.co/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/zora.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://wolf.game/" target="_blank">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/wolf.png?raw=true" width="200">
+            </a>
+        </td>            
+    </tr>  
+    <tr>
+        <td><a href="https://app.olympusdao.finance/">Forked Link</a></td>
+        <td><a href="https://zora.co/">Forked Link</a></td>
+        <td><a href="https://wolf.game/">Forked Link</a></td>
+    </tr>
+</table>
 - NFT Mint Dapps
 <table>
     <thead align="center">
