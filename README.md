@@ -54,22 +54,22 @@ Only perfect result will be provided for you !!!
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/PotatoPowerClub.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/CryptoPig.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/main/projects/ChubbyBunny1.png?raw=true" width="200">
             </a>
         </td>
         <td>
             <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/GekoSave0.png?raw=true" width="200">
             </a>
         </td>            
     </tr>  
@@ -86,12 +86,12 @@ Only perfect result will be provided for you !!!
     <tr>
         <td>
             <a href="https://nftmania.app/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/nftmania.png?raw=true" width="200">
             </a>
         </td>        
         <td>
             <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/GekoSave1.png?raw=true" width="200">
             </a>
         </td>     
     </tr>
@@ -109,17 +109,17 @@ Only perfect result will be provided for you !!!
     <tr>
         <td>
             <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/cosmicswap.png?raw=true" width="200">
             </a>
         </td>          
         <td>
             <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/ddexinfo.png?raw=true" width="200">
             </a>
         </td>   
         <td>
             <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/maticswap.png?raw=true" width="200">
             </a>
         </td> 
     </tr>  
