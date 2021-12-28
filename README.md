@@ -8,7 +8,7 @@ I am a Blockchain and web fullstack developer who have unrivaled crypto skills.
 Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liquidity Pool, Swap, Bridge, ICO, Fork.  
 Only perfect result will be provided for you !!!  
 
-<img align="center" alt="GIF" src="code.gif?raw=true" width="100%"/>
+<img align="center" alt="GIF" src="code.gif?raw=true" width="80%" height="400"/>
 </div>
 
 ### **_Skill Set_**
