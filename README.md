@@ -6,7 +6,7 @@
 I am a Blockchain and web fullstack developer who have unrivaled crypto skills.  
 3 years in blockchain development recently and 8+ years in web development before.  
 Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liquidity Pool, Swap, Bridge, ICO, Fork.  
-<h5>Only perfect result will be provided for you !!! </h5>   
+<h3>Only perfect result will be provided for you !!! </h3>   
 
 <img align="center" alt="GIF" src="code.gif?raw=true" width="80%" height="400"/>
 </div>
@@ -76,7 +76,7 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
         </td>            
     </tr>  
     <tr>
-        <td><a href="https://app.olympusdao.finance/">Forked Link</a></td>
+        <td><a href="https://app.kandyland.finance/">Forked Link</a></td>
         <td><a href="https://zora.co/">Forked Link</a></td>
         <td><a href="https://wolf.game/">Forked Link</a></td>
     </tr>
