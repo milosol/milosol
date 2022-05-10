@@ -48,117 +48,104 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
 </table>
 
 ### Experiences
-
-- Fork
+- NFT Marketplaces
 <table>
     <thead align="center">
         <tr>
-            <td>OlympusDAO</td>
-            <td>Zora NFT Marketplace</td>     
-            <td>WolfGame</td>      
+            <td>MetaRarity</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://app.olympusdao.finance/">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/olympusdao.png?raw=true" width="200">
+            <a href="https://metararity.com/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/metararity.png?raw=true" width="200">
             </a>
-        </td>
-        <td>
-            <a href="https://zora.co/">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/zora.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://wolf.game/" target="_blank">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/wolf.png?raw=true" width="200">
-            </a>
-        </td>            
-    </tr>  
-    <tr>
-        <td><a href="https://app.kandyland.finance/">Forked Link</a></td>
-        <td><a href="https://zora.co/">Forked Link</a></td>
-        <td><a href="https://wolf.game/">Forked Link</a></td>
+        </td>          
     </tr>
+</table>
+
+- DeFi
+<table>
+    <thead align="center">
+        <tr>
+            <td>LycanFinance</td>
+            <td>Vault79</td>       
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://lycanfinance.vercel.app/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/lycanfinance.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://vault79.on.fleek.co/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/vault79.png?raw=true" width="200">
+            </a>
+        </td>         
+    </tr>  
+</table>
+
+- P2E Game and Lottery
+<table>
+    <thead align="center">
+        <tr>
+            <td>YieldHunt</td>       
+            <td>BlueChipLottery</td>       
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://yieldhunt.game/phase1">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/yieldhunt.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://bluechiplottery.com/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/bcl.png?raw=true" width="200">
+            </a>
+        </td>   
+    </tr>  
 </table>
 
 - NFT Mint Dapps
 <table>
     <thead align="center">
         <tr>
-            <td>PotatoPowerClue</td>
-            <td>CryptoPigs</td>     
-            <td>GekoSave</td>      
+            <td>BittyBots</td>
+            <td>CryptoPigs</td>         
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/PotatoPowerClub.png?raw=true" width="200">
+            <a href="https://avaxies.vercel.app/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/bittybots.png?raw=true" width="200">
             </a>
         </td>
         <td>
-            <a href="https://cryptopigs.one/#/">
+            <a href="https://cryptopigs.one/">
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/CryptoPig.png?raw=true" width="200">
             </a>
-        </td>
-        <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/GekoSave0.png?raw=true" width="200">
-            </a>
-        </td>            
+        </td>         
     </tr>  
 </table>
 
-- NFT Marketplaces
+- Django
 <table>
     <thead align="center">
         <tr>
-            <td>NFTMania</td>
-            <td>GekoSaveAuction</td>
+            <td>GridGaming</td>    
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://nftmania.app/">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/nftmania.png?raw=true" width="200">
+            <a href="https://www.gridgaming.io/">
+                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/gridgaming.png?raw=true" width="200">
             </a>
-        </td>        
-        <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/GekoSave1.png?raw=true" width="200">
-            </a>
-        </td>     
-    </tr>
-</table>
-
-- DEX
-<table>
-<thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/cosmicswap.png?raw=true" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/ddexinfo.png?raw=true" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/maticswap.png?raw=true" width="200">
-            </a>
-        </td> 
+        </td>         
     </tr>  
 </table>
+
 
 ### Conclusion
 Your business is my own business and I will do my best for your job with high skills, honest and kind mind.  
