@@ -57,7 +57,7 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
     </thead>
     <tr>
         <td>
-            <a href="https://metararity.com/">
+            <a href="https://metararity.com/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/metararity.png?raw=true" width="200">
             </a>
         </td>          
@@ -74,12 +74,12 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
     </thead>
     <tr>
         <td>
-            <a href="https://lycanfinance.vercel.app/">
+            <a href="https://lycanfinance.vercel.app/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/lycanfinance.png?raw=true" width="200">
             </a>
         </td>
         <td>
-            <a href="https://vault79.on.fleek.co/">
+            <a href="https://vault79.on.fleek.co/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/vault79.png?raw=true" width="200">
             </a>
         </td>         
@@ -96,12 +96,12 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
     </thead>
     <tr>
         <td>
-            <a href="https://yieldhunt.game/phase1">
+            <a href="https://yieldhunt.game/phase1" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/yieldhunt.png?raw=true" width="200">
             </a>
         </td>   
         <td>
-            <a href="https://bluechiplottery.com/">
+            <a href="https://bluechiplottery.com/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/bcl.png?raw=true" width="200">
             </a>
         </td>   
@@ -118,12 +118,12 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
     </thead>
     <tr>
         <td>
-            <a href="https://avaxies.vercel.app/">
+            <a href="https://avaxies.vercel.app/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/bittybots.png?raw=true" width="200">
             </a>
         </td>
         <td>
-            <a href="https://cryptopigs.one/">
+            <a href="https://cryptopigs.one/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/CryptoPig.png?raw=true" width="200">
             </a>
         </td>         
@@ -139,7 +139,7 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
     </thead>
     <tr>
         <td>
-            <a href="https://www.gridgaming.io/">
+            <a href="https://www.gridgaming.io/" target='_blank'>
                 <img src="https://github.com/rdmochih/rdmochih/blob/main/projects/gridgaming.png?raw=true" width="200">
             </a>
         </td>         
