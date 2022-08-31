@@ -2,8 +2,8 @@
 <div align="center">
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Mochih </h1>
 
-### Blockchain & Web Full Stack Developer
-I am a Blockchain and web fullstack developer who have unrivaled crypto skills.  
+### Blockchain Full Stack Developer
+I am a senior frontend developer who have unrivaled crypto skills.  
 3 years in blockchain development recently and 8+ years in web development before.  
 Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liquidity Pool, Swap, Bridge, ICO, Fork.  
 <h3>Only perfect result will be provided for you !!! </h3>   
@@ -12,9 +12,9 @@ Rich experience of Tokenomics, DEX, NFT Marketplace, P2E Game, YieldFarming, Liq
 </div>
 
 ### **_Skill Set_**
-- Solidity, Chainlink, IPFS, Alchemy, Pinata, Web3, React, Vue, GraphQL, Subgraph  
-- Truffle, Hardhat, Ethereum, BSC, Avalanche, Polygon, Polkadot, Rust, Solana  
-- Python, Django, PHP, Laravel, NextJs, NuxtJS, Gatsby  
+- Javascript, React, Redux, Vue, GraphQL, Web3
+- Solidity, Chainlink, IPFS, Alchemy, Pinata, Subgraph, Solana 
+- Python, Django, NextJs, NuxtJS, Gatsby
 
 <table>
   <tr>
