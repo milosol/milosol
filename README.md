@@ -1,9 +1,8 @@
 
 ### Full Stack Developer
-I am a senior frontend developer who have unrivaled crypto skills.  
-3 years in blockchain development recently and 8+ years in web development before.  
+I am a senior frontend developer who have excellent skills in Javascript and CSS.  
+8+ years in web full stack development and 3 years in blockchain.
 
 ### **_Skill Set_**
-- Javascript, React, Redux, Vue, GraphQL, Web3
-- Solidity, Chainlink, IPFS, Alchemy, Pinata, Subgraph, Solana 
-- Python, Django, NextJs, NuxtJS, Gatsby  
+- Javascript, React, Redux, Vue, GraphQL, Web3, Solidity
+- Python, Django, NextJs, NuxtJS  
