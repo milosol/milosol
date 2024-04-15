@@ -1,5 +1,5 @@
 
-### <p align="right">React | Node | Flutter | Python | Blockchain | GPT</p>
+### <p align="center">React | Node | Flutter | Python | Blockchain | GPT</p>
 
 Experienced Software Engineer with more than 10+ years of extensive Full-stack
 Website/Mobile/Blockchain/ ChatGPT developer.
