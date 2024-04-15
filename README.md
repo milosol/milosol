@@ -1,9 +1,11 @@
 
-### React | Node | Flutter | Python | Blockchain | GPT
+### <p align="right">React | Node | Flutter | Python | Blockchain | GPT</p>
+
 Experienced Software Engineer with more than 10+ years of extensive Full-stack
 Website/Mobile/Blockchain/ ChatGPT developer.
 
-Daily playground:-
+#### Daily playground:
+
 ⩥ React.JS | Next.JS |Angular | Express.JS | Node.JS | ReactFlow | Redux | CSS | HTML | Javascript | MongoDB
 
 ⩥ Python | Django | Flask | FastAPI | AWS | Selenium | RESTAPI
