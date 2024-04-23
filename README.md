@@ -1,8 +1,7 @@
 
 ### <p align="center">React | Node | Flutter | Python | Blockchain | GPT</p>
 
-Experienced Software Engineer with more than 10+ years of extensive Full-stack
-Website/Mobile/Blockchain/ ChatGPT developer.
+Experienced 10+ years in extensive Full-stack Website/Mobile/Blockchain/ ChatGPT developer.
 
 #### Daily playground:
 
@@ -20,4 +19,4 @@ Website/Mobile/Blockchain/ ChatGPT developer.
 
 ⩥ChatGPT3 | ChatGPT API.
 
-I pride myself on my ability to offer rapid turnarounds and quality products to my clients. And I would like to do the same for you.
+I am a perfectionist. Only perfect result would  be provided for you.
