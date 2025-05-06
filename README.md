@@ -7,8 +7,8 @@ Experienced 10+ years in extensive Full-stack Web/Blockchain development.
 
 ⩥ React.JS | Next.JS | Express.JS | Node.JS | Redux | CSS | HTML | Javascript | MongoDB
 
-⩥ Python | Django | Flask | FastAPI | AWS | Selenium | RESTAPI
+⩥ Python | Django | Flask | AWS | RESTAPI
 
-⩥ Blockchain | Smart Contract | Solidity | YII2 | WEB3 | Ethereum | NFT | Smart Chain | NGNIX | ERC20 | Cryptocurrency | Solana | Rust
+⩥ Blockchain | Smart Contract | Solidity | WEB3 | Ethereum | NFT | Solana | Rust
 
 ⩥ GraphQL | AWS | Azure | DevOps | Firebase | MongoDB | MySQL | Postgres
